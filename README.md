@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/m5T4bM1z/Md-Moniruzzaman-Email-Header-Google-Chrome-2025-02-04-23-16-42-online-video-cutter-com-2.gif"  />
+  <img height="200" src="https://i.ibb.co.com/QF1LLFqb/mt.gif"  />
 </div>
 
 # **Md Moniruzzaman Tonoy**
@@ -52,6 +52,9 @@ I am a computer specialist. I am now working as a **Computer Operator at Open IT
   </a>
   <a href="https://www.facebook.com/moniruzzaman.kendua" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://dev.to/moniruzzaman2428" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="dev.to logo"  />
   </a>
   <a href="mailto:moniruzzaman2428@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
