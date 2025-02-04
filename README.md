@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/m5T4bM1z/Md-Moniruzzaman-Email-Header-Google-Chrome-2025-02-04-23-16-42-online-video-cutter-com-2.gif" />
+  <img height="200" src="https://i.ibb.co.com/m5T4bM1z/Md-Moniruzzaman-Email-Header-Google-Chrome-2025-02-04-23-16-42-online-video-cutter-com-2.gif"  />
 </div>
 
 # **Md Moniruzzaman Tonoy**
@@ -40,20 +40,20 @@ I am a computer specialist. I am now working as a **Computer Operator at Open IT
 ---
 
 ## **🌎 Connect with Me**  
-<div align="left">
-  <a href="https://linkedin.com/in/nur922184" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-moniruzzaman-tonoy-7bb52b285/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/nur922184" target="_blank">
+  <a href="https://x.com/moniruzzaman_24" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://youtube.com/nur922184" target="_blank">
+  <a href="https://www.youtube.com/@moniruzzamam2428" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://facebook.com/nur922184" target="_blank">
+  <a href="https://www.facebook.com/moniruzzaman.kendua" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="mailto:nur922184@example.com">
+  <a href="mailto:moniruzzaman2428@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -74,7 +74,11 @@ I am a computer specialist. I am now working as a **Computer Operator at Open IT
 ---
 
 ## **🐍 GitHub Contribution Snake Animation**
+###
+
 <img src="https://raw.githubusercontent.com/nur922184/nur922184/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
