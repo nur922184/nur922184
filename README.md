@@ -197,17 +197,4 @@ MongoDB      🟥🟥🟥🟥🟥🟥🟥                 35%
   <!-- Footer Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
   
-</div>
-
-<style>
-  /* Custom animations for badges */
-  @keyframes glow {
-    0% { box-shadow: 0 0 5px #00ff88; }
-    50% { box-shadow: 0 0 20px #0088ff, 0 0 30px #00ff88; }
-    100% { box-shadow: 0 0 5px #00ff88; }
-  }
-  
-  img:hover {
-    animation: glow 1s ease-in-out infinite;
-  }
-</style>
+<div align="center"><!-- Animated Quote --><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=50&lines=💻+Code+is+poetry+in+motion;🚀+Every+bug+is+a+learning+opportunity;🌟+Clean+code+is+an+art+form;⚡+Technology+should+solve+real+problems;🎯+Simplicity+is+the+ultimate+sophistication" /></div>
