@@ -23,20 +23,7 @@
 
 ## **✨ About Me**
 
-<div align="center">
-  
-  ```javascript
-  const moniruzzaman = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "HTML", "CSS", "React", "Node.js"],
-    tools: ["VS Code", "Git", "GitHub", "Firebase", "MongoDB"],
-    architecture: ["Microservices", "Progressive Web Apps", "SPA"],
-    currentFocus: "Mastering Full Stack Development",
-    funFact: "I turn coffee into code ☕ → 💻"
-  };
-  ```
-
-</div>
+<div align="center"><!-- Animated Code Block --><pre> 🚀 <span style="color:#00ff88">const</span> <span style="color:#0088ff">developer</span> = { name: "<span style="color:#ff8800">Md Moniruzzaman Tonoy</span>", role: "<span style="color:#00ff88">Full Stack Developer</span>", location: "<span style="color:#0088ff">Bangladesh</span>", passion: "<span style="color:#ff0088">Creating Digital Magic</span>", 💼 currentWork: { company: "<span style="color:#00ff88">Open IT Institute</span>", position: "<span style="color:#0088ff">Computer Operator</span>", focus: "<span style="color:#ff8800">Web Design Specialization</span>" }, 🎓 education: { school: "<span style="color:#00ff88">Kendua Joyhori Spri Government High School</span>", field: "<span style="color:#0088ff">Computer Science</span>" }, ⚡ skills: { frontend: ["<span style="color:#ff0088">React</span>", "<span style="color:#ff0088">JavaScript</span>", "<span style="color:#ff0088">Tailwind CSS</span>"], backend: ["<span style="color:#0088ff">Node.js</span>", "<span style="color:#0088ff">Firebase</span>", "<span style="color:#0088ff">MongoDB</span>"], tools: ["<span style="color:#00ff88">Git</span>", "<span style="color:#00ff88">VS Code</span>", "<span style="color:#00ff88">GitHub</span>"] }, 🎯 goals: [ "🚀 Master MERN Stack", "💡 Build Scalable Applications", "🌐 Contribute to Open Source", "📚 Never Stop Learning" ], ✨ funFacts: [ "☕ Coffee → Code Transformer", "🎨 UI/UX Enthusiast", "🔧 Problem Solver", "🌟 Dream Big, Code Bigger" ] }; <span style="color:#ff8800">console</span>.<span style="color:#00ff88">log</span>(`Hello World! I'm ${developer.name} 👋`); </pre></div>
 
 ---
 
