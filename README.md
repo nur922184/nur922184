@@ -3,7 +3,7 @@
 </div>
 
 # **Md Moniruzzaman Tonoy**
-<div align="center">
+<div align="right">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Md+Moniruzzaman+💻;Full+Stack+Web+Developer+🚀;Web+Solutions+Expert+⭐" alt="Typing SVG" />
 </div>
  
